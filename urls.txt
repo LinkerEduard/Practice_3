@@ -1,0 +1,12 @@
+^urls
+~WM26eD~https://www.youtube.com/@prossd
+~1IWzvd~https://www.youtube.com/
+~yWYvRw~https://www.wikipedia.org/
+~yVzzlz~https://translate.google.ru/?sl=en&tl=ru&text=200%20OK%20%E2%80%93%20The%20request%20was%20successful.%0A400%20Bad%20Request%20%E2%80%93%20The%20request%20was%20malformed%20or%20invalid.%0A401%20Unauthorized%20%E2%80%93%20The%20request%20requires%20authentication.%0A403%20Forbidden%20%E2%80%93%20The%20server%20refused%20to%20fulfill%20the%20request.%0A404%20Not%20Found%20%E2%80%93%20The%20requested%20resource%20could%20not%20be%20found.%0A500%20Internal%20Server%20Error%20%E2%80%93%20The%20server%20encountered%20an%20unexpected%20condition.&op=translate
+~3grXaZ~https://dispace.edu.nstu.ru/
+^short_urls
+~https://dispace.edu.nstu.ru/~3grXaZ
+~https://translate.google.ru/?sl=en&tl=ru&text=200%20OK%20%E2%80%93%20The%20request%20was%20successful.%0A400%20Bad%20Request%20%E2%80%93%20The%20request%20was%20malformed%20or%20invalid.%0A401%20Unauthorized%20%E2%80%93%20The%20request%20requires%20authentication.%0A403%20Forbidden%20%E2%80%93%20The%20server%20refused%20to%20fulfill%20the%20request.%0A404%20Not%20Found%20%E2%80%93%20The%20requested%20resource%20could%20not%20be%20found.%0A500%20Internal%20Server%20Error%20%E2%80%93%20The%20server%20encountered%20an%20unexpected%20condition.&op=translate~yVzzlz
+~https://www.wikipedia.org/~yWYvRw
+~https://www.youtube.com/~1IWzvd
+~https://www.youtube.com/@prossd~WM26eD

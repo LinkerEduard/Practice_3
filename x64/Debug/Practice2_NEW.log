@@ -1,0 +1,13 @@
+﻿  server.c
+C:\Users\Eduard\source\repos\Practice2_NEW\server.c(63,34): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Eduard\source\repos\Practice2_NEW\server.c(88,34): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Eduard\source\repos\Practice2_NEW\server.c(97,34): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Eduard\source\repos\Practice2_NEW\server.c(158,9): warning C4033: "QPOP" должен возвращать значение
+C:\Users\Eduard\source\repos\Practice2_NEW\server.c(192,34): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Eduard\source\repos\Practice2_NEW\server.c(217,34): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Eduard\source\repos\Practice2_NEW\server.c(226,34): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Eduard\source\repos\Practice2_NEW\server.c(957,51): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Eduard\source\repos\Practice2_NEW\server.c(815,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Eduard\source\repos\Practice2_NEW\server.c(172): warning C4715: QPOP: значение возвращается не при всех путях выполнения
+C:\Users\Eduard\source\repos\Practice2_NEW\server.c(962): warning C4715: handle_client: значение возвращается не при всех путях выполнения
+  Practice2_NEW.vcxproj -> C:\Users\Eduard\source\repos\Practice2_NEW\x64\Debug\Practice2_NEW.exe
